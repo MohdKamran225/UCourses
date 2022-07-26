@@ -1,0 +1,314 @@
+{
+  "users": [
+    {
+      "username": "MohdKamran",
+      "password": "kamran@123",
+      "email": "kamran123@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "Kaif",
+      "password": "kaif@123",
+      "email": "kaif123@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "MohdKamran",
+      "password": "p@ssword",
+      "email": "mohd.kamran@walkingtree.tech",
+      "id": 3
+    },
+    {
+      "username": "nitesh",
+      "password": "p@ssword",
+      "email": "nitesh123@gmail.com",
+      "id": 4
+    },
+    {
+      "username": "MohdKamran11",
+      "email": "mohd.kamran@walkingtree",
+      "password": "p@sssndfjkasnfjnbasd",
+      "id": 5
+    },
+    {
+      "username": "sgsdgsdg",
+      "email": "mohd.kamran@walkingtree",
+      "password": "sdgsdgsdgsfsafsd",
+      "id": 6
+    },
+    {
+      "username": "MohdKamran",
+      "email": "mohd.kamran@walkingtree.tech",
+      "password": "dcdsacdasdasdas",
+      "id": 7
+    }
+  ],
+  "cart": [
+    {
+      "course": {
+        "id": 4,
+        "category": "design",
+        "title": "Beginners Crystal Reports 2013 & 2011 Tutorial Video",
+        "author": "Infinite Skills",
+        "price": 2299,
+        "rating": 3,
+        "img": "https://img-b.udemycdn.com/course/240x135/42952_b748_7.jpg"
+      },
+      "user": {
+        "email": "mohd.kamran@walkingtree.tech",
+        "password": "p@ssword"
+      },
+      "id": 1
+    },
+    {
+      "course": {
+        "id": 6,
+        "category": "design",
+        "title": "Become a UX Designer | Learn the Skills & Get the Job",
+        "author": "Brendan Bolton-Klinger",
+        "price": 3499,
+        "rating": 4,
+        "img": "https://img-b.udemycdn.com/course/240x135/52512_7152_10.jpg"
+      },
+      "user": {
+        "email": "mohd.kamran@walkingtree.tech",
+        "password": "p@ssword"
+      },
+      "id": 2
+    },
+    {
+      "course": {
+        "id": 2,
+        "category": "design",
+        "title": "Photoshop Master Course: From Beginner to Photoshop Pro",
+        "author": "Manfred Warner",
+        "price": 2299,
+        "rating": 4,
+        "img": "https://img-b.udemycdn.com/course/240x135/16799_e077_20.jpg"
+      },
+      "user": {
+        "email": "mohd.kamran@walkingtree.tech",
+        "password": "p@ssword"
+      },
+      "id": 3
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "category": "design",
+      "title": "Create Responsive Web Design",
+      "author": "Chris Converse",
+      "price": 799,
+      "rating": 4,
+      "img": "https://img-b.udemycdn.com/course/240x135/8814_0329_5.jpg"
+    },
+    {
+      "id": 2,
+      "category": "design",
+      "title": "Photoshop Master Course: From Beginner to Photoshop Pro",
+      "author": "Manfred Warner",
+      "price": 2299,
+      "rating": 4,
+      "img": "https://img-b.udemycdn.com/course/240x135/16799_e077_20.jpg"
+    },
+    {
+      "id": 3,
+      "category": "design",
+      "title": "User Experience (UX): The Ultimate Guide to Usability and UX",
+      "author": "David Travis",
+      "price": 2999,
+      "rating": 4,
+      "img": "https://img-b.udemycdn.com/course/240x135/28258_8a7e_13.jpg"
+    },
+    {
+      "id": 4,
+      "category": "design",
+      "title": "Beginners Crystal Reports 2013 & 2011 Tutorial Video",
+      "author": "Infinite Skills",
+      "price": 2299,
+      "rating": 3,
+      "img": "https://img-b.udemycdn.com/course/240x135/42952_b748_7.jpg"
+    },
+    {
+      "id": 5,
+      "category": "design",
+      "title": "Essential Skills for Designers - Masking",
+      "author": "Martin Pharhiniak",
+      "price": 1999,
+      "rating": 5,
+      "img": "https://img-b.udemycdn.com/course/240x135/49553_15ee_7.jpg"
+    },
+    {
+      "id": 6,
+      "category": "design",
+      "title": "Become a UX Designer | Learn the Skills & Get the Job",
+      "author": "Brendan Bolton-Klinger",
+      "price": 3499,
+      "rating": 4,
+      "img": "https://img-b.udemycdn.com/course/240x135/52512_7152_10.jpg"
+    },
+    {
+      "id": 7,
+      "category": "development",
+      "title": "Learn Web Designing & HTML5/CSS3 Essentials in 4-Hours",
+      "author": "Brad Hussey , Code College",
+      "price": 2899,
+      "rating": 3,
+      "img": "https://img-b.udemycdn.com/course/240x135/28295_6948_7.jpg"
+    },
+    {
+      "id": 8,
+      "category": "development",
+      "title": "Advanced Java Programming",
+      "author": "Infinite Skills",
+      "price": 2299,
+      "rating": 4,
+      "img": "https://img-b.udemycdn.com/course/240x135/28373_c170_9.jpg"
+    },
+    {
+      "id": 9,
+      "category": "development",
+      "title": "Kids Coding - Introduction to HTML, CSS and JavaScript!",
+      "author": "John Bura, Mammoth interactive",
+      "price": 3499,
+      "rating": 3,
+      "img": "https://img-b.udemycdn.com/course/240x135/30261_3a1f_11.jpg"
+    },
+    {
+      "id": 10,
+      "category": "development",
+      "title": "SQL Server High Availability and Disaster Recovery (HA/DR)",
+      "author": "Joey Blue",
+      "price": 3499,
+      "rating": 4,
+      "img": "https://img-b.udemycdn.com/course/240x135/31592_2106_3.jpg"
+    },
+    {
+      "id": 11,
+      "category": "development",
+      "title": "SQL Server High Availability and Disaster Recovery (HA/DR)",
+      "author": "Edin M Sermiento",
+      "price": 3499,
+      "rating": 3,
+      "img": "https://img-b.udemycdn.com/course/240x135/37940_6183_4.jpg"
+    },
+    {
+      "id": 12,
+      "category": "development",
+      "title": "Database Design Introduction",
+      "author": "Intellezy Trainers",
+      "price": 2899,
+      "rating": 4,
+      "img": "https://img-b.udemycdn.com/course/240x135/51133_b387_6.jpg"
+    },
+    {
+      "id": 13,
+      "category": "business",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "price": 1699,
+      "rating": 4,
+      "img": "https://img-b.udemycdn.com/course/240x135/8467_e90b_8.jpg"
+    },
+    {
+      "id": 14,
+      "category": "business",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "price": 1699,
+      "rating": 4,
+      "img": "https://img-c.udemycdn.com/course/240x135/17782_50e2_14.jpg"
+    },
+    {
+      "id": 15,
+      "category": "business",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "price": 1699,
+      "rating": 4,
+      "img": "https://img-c.udemycdn.com/course/240x135/25671_f3b1_4.jpg"
+    },
+    {
+      "id": 16,
+      "category": "business",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "price": 1699,
+      "rating": 5,
+      "img": "https://img-c.udemycdn.com/course/240x135/30704_aaa6_3.jpg"
+    },
+    {
+      "id": 17,
+      "category": "business",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "price": 1699,
+      "rating": 4,
+      "img": "https://img-c.udemycdn.com/course/240x135/33949_3a7e_5.jpg"
+    },
+    {
+      "id": 18,
+      "category": "business",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "price": 1699,
+      "rating": 3,
+      "img": "https://img-c.udemycdn.com/course/240x135/38545_03aa_6.jpg"
+    },
+    {
+      "id": 19,
+      "category": "it & software",
+      "title": "Introduction To Fiber Optic Cabling",
+      "author": "Sebastian Flores",
+      "price": 799,
+      "rating": 4,
+      "img": "https://img-b.udemycdn.com/course/240x135/22591_b568_6.jpg"
+    },
+    {
+      "id": 20,
+      "category": "it & software",
+      "title": "Introduction To Fiber Optic Cabling",
+      "author": "Sebastian Flores",
+      "price": 799,
+      "rating": 5,
+      "img": "https://img-c.udemycdn.com/course/240x135/39551_366c_7.jpg"
+    },
+    {
+      "id": 21,
+      "category": "it & software",
+      "title": "Introduction To Fiber Optic Cabling",
+      "author": "Sebastian Flores",
+      "price": 799,
+      "rating": 4,
+      "img": "https://img-c.udemycdn.com/course/240x135/55282_cbd6_13.jpg"
+    },
+    {
+      "id": 22,
+      "category": "it & software",
+      "title": "Introduction To Fiber Optic Cabling",
+      "author": "Sebastian Flores",
+      "price": 799,
+      "rating": 4,
+      "img": "https://img-c.udemycdn.com/course/240x135/60346_042d_15.jpg"
+    },
+    {
+      "id": 23,
+      "category": "it & software",
+      "title": "Introduction To Fiber Optic Cabling",
+      "author": "Sebastian Flores",
+      "price": 799,
+      "rating": 4,
+      "img": "https://img-c.udemycdn.com/course/240x135/62109_9be0_8.jpg"
+    },
+    {
+      "id": 24,
+      "category": "it & software",
+      "title": "Introduction To Fiber Optic Cabling",
+      "author": "Sebastian Flores",
+      "price": 799,
+      "rating": 4,
+      "img": "https://img-c.udemycdn.com/course/240x135/65618_be53_7.jpg"
+    }
+  ]
+}
